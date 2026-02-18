@@ -23,8 +23,4 @@ The project employs a structured statistical approach to binary classification:
 
 ## 📁 Repository Structure
 * `model.ipynb`: Jupyter Notebook containing data analysis, feature exploration, and model implementation.
-* `A1 Competition.pdf`: Detailed project proposal and research framework.
 * `final_submission.csv`: The final predicted output and classification results.
-
----
-**Course:** STAT 4620/5620 – Data Analysis
